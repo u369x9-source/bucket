@@ -1,1 +1,12 @@
-{"machine_id": "289AF924325DCDDA8A796FDAEE97AABA9753D7E69CCCE937FBDA99E179ADC851", "license_key":"6A7E40-C9F13D-8B29F6-A12C4E-7B8D91-FA3C52", "expire_date": "2026-03-18", "status": "active", "mobile_number": "8376423672"}
+{
+  "machines": [
+    {
+      "id": "289AF924325DCDDA8A796FDAEE97AABA9753D7E69CCCE937FBDA99E179ADC851",
+      "licenses": ["6A7E40-C9F13D-8B29F6-A12C4E-7B8D91-FA3C52"]
+      "expire_date": "2026-03-18", 
+      "status": "active", 
+      "mobile_number": "8376423672",
+      "email":"user@gamil.com"
+    }
+  ]
+}
